@@ -7,5 +7,6 @@ include_once("menu.php");
 ?>
 </div>
 <div id="content">
-<p>SHOW RECORD</p>
-</div>
+ROLLNO:<input type="text" name="t2">
+<input type="submit" value="ok">
+</div></body></html>
